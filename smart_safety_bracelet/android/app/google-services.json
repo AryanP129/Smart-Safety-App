@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110745480221",
+    "project_id": "emergency-contacts-bcb19",
+    "storage_bucket": "emergency-contacts-bcb19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110745480221:android:c46ad5b10bf34c6b1a2af4",
+        "android_client_info": {
+          "package_name": "com.example.smart_safety_bracelet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgy9B0wC3ZyhlsG26ioO87jqWtq5yyUQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
